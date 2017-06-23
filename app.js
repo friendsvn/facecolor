@@ -102,7 +102,7 @@ app.post("/", (req, res) => {
 
 app.get("/", (req, res) => {
 	// A bit of credit :))
-	res.send("It works<br>Made by T-Rekt of J2TeaM");
+	res.send("It works<br>Edit by H2");
 });
 
 app.listen(port, () => {
